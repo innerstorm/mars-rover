@@ -2,11 +2,13 @@
 raspberry pi driven mars rover
 
 ## software
+- raspbian 
 - pyton3, 
 - flask based web interface **OR** socket based client/server application written in python
 
 ### libraries and must have software
-...
+
+we want to go headless, so we need no GUI, nothing but the basic IO port driving part, the wlan, the python, ssh, maybe samba installed 
 
 
 ### GPIO mapping
