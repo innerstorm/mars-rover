@@ -64,3 +64,5 @@ the driver's connections:
 - pwm output pin for the servo
 - enable/pwm output for the propulsion (enable1)
 - in1/in2 simple GPIO pins for in1/in2 of propulsion driver
+
+#### ssh deply test
